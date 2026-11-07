@@ -1,0 +1,10 @@
+chaves.txt
+.env
+__pycache__/
+.streamlit/secrets.toml
+*.pyc
+# dados pessoais abertos: NUNCA vão para o GitHub (só as versões .enc)
+carteira.yaml
+data/historico.csv
+data/teses.json
+chave_carteira.txt

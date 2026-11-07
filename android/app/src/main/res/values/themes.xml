@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.Carteira" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#0E2A47</item>
+        <item name="colorPrimaryDark">#0E2A47</item>
+        <item name="colorAccent">#22C55E</item>
+        <item name="android:statusBarColor">#0E2A47</item>
+    </style>
+</resources>
